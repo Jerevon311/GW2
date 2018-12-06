@@ -14,5 +14,7 @@ public class GameCareer {
         System.out.println("Warrior_战士");
         System.out.println("Guardian_守护者");
         System.out.println("Revenan_魂武者");
+        System.out.println("在这个版本中幻术师依旧是我最喜欢且最常用的职业！");
+        System.out.println("她灵活，机动性强，伤害高，生存高，操作虽然稍稍复杂，但并没有想象中那么难");
     }
 }
